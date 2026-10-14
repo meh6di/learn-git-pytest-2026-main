@@ -16,8 +16,7 @@ def add(a: Number, b: Number) -> Number:
     Returns:
         The sum of a and b
     """
-    # TODO: Implement this function
-    pass
+    return a + b
 
 
 def subtract(a: Number, b: Number) -> Number:
